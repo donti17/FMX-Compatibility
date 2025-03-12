@@ -3,6 +3,6 @@
 
 | Game Title                 | Region | Works? | Notes (Crashes, Fixes, Patches) |
 |----------------------------|--------|:------:|---------------------------------|
-| Midnight Club: Los Angeles | ?      | ✅     | Reported working by [u/Octoomy](https://www.reddit.com/r/360hacks/comments/1j87wwc/midnight_club_los_angeles_running_on_bad_updated/) | 
+| Midnight Club: Los Angeles | ?      | ✅     | [Reported working](https://www.reddit.com/r/360hacks/comments/1j87wwc/midnight_club_los_angeles_running_on_bad_updated/) by [u/Octoomy](https://reddit.com/u/Octoomy) | 
 | Sonic Generations          | World  | ❌     | Crashes after SEGA logo animation (tested on beta 2)|
 | Sonic Unleashed            | PAL    | ✅     | Launches and plays perfectly (tested on beta 3)|
