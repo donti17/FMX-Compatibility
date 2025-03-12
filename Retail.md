@@ -1,7 +1,6 @@
 > [!NOTE]
 > Remember to patch your games! XePatcher is included in Tools.zip offered by [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest)
-
-> Before adding a game to this list, try removing any title updates first. Sometimes games work when TUs are deleted.
+> - Before adding a game to this list, try removing any title updates first. Sometimes games work when TUs are deleted.
 
 | Game Title                 | Region | Works? | Notes (Crashes, Fixes, Patches) |
 |----------------------------|--------|:------:|---------------------------------|
