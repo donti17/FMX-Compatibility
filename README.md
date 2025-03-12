@@ -12,7 +12,7 @@ Compatibility reports are categorized as follows:
 | Status | Meaning |
 |--------|---------|
 | ✅ Works | Fully functional with no issues. |
-| ⚠️ Partially Works | Works, but has glitches or requires fixes. |
+| ⚠️ Partially | Works, but has glitches or requires fixes. |
 | ❌ Borked | Does not work or crashes. |
 
 ### Categories
@@ -32,7 +32,7 @@ We rely on the community to expand and maintain this database (though I will be 
    ```md
    | Game Title     | Region   | Works?     | Notes (Crashes, Fixes, Patches)      |
    |----------------|----------|------------|--------------------------------------|
-   | Example Game   | NTSC-U   | ⚠️ Partial | Crashes after loading world 2       |
+   | Example Game   | NTSC-U   | ⚠️ Partially | Crashes after loading world 2       |
    | Another Game   | PAL      | ✅ Works   | No issues found                     |
    | Yet Another    | NTSC-J   | ❌ Borked  | Doesn't launch at all               |
    ```
@@ -40,7 +40,7 @@ We rely on the community to expand and maintain this database (though I will be 
 
    | Game Title     | Region   | Works?     | Notes (Crashes, Fixes, Patches)      |
    |----------------|----------|------------|--------------------------------------|
-   | Example Game   | NTSC-U   | ⚠️ Partial | Crashes after loading world 2       |
+   | Example Game   | NTSC-U   | ⚠️ Partially | Crashes after loading world 2       |
    | Another Game   | PAL      | ✅ Works   | No issues found                     |
    | Yet Another    | NTSC-J   | ❌ Borked  | Doesn't launch at all               |
 
