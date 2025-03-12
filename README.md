@@ -45,7 +45,7 @@ This project is licensed under **CC0 1.0 Universal (Public Domain Dedication)**.
 - No attribution required.
 
 ## Credits
-This project is maintained by the FreeMyXe community. Special thanks to:
+This project is maintained by the Xbox 360 community! Special thanks to:
 - [**InvoxiPlayGames**](https://github.com/InvoxiPlayGames) for creating [**FreeMyXe**](https://github.com/InvoxiPlayGames/FreeMyXe).
 - [**grimdoomer**](https://github.com/grimdoomer) for developing [**Xbox360BadUpdate**](https://github.com/grimdoomer/Xbox360BadUpdate).
 
