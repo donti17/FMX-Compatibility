@@ -20,7 +20,7 @@ Compatibility reports are categorized as follows:
 - [Homebrew](/Homebrew.md)
 
 ## Assumptions
-- All games and homebrew listed in this database are assumed to have been patched using [**XePatcher/XexTool**](https://github.com/grimdoomer/Xbox360BadUpdate/releases/download/latest/Tools.zip) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
+- All games and homebrew listed in this database are assumed to have been patched using **XePatcher/XexTool** (Tools.zip found from [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/download/latest/Tools.zip)) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
 - **Arcade games should work out of the box** and generally do not require patching. If an arcade game does not work, feel free to let me know via the issues tab and I can get an arcade file.
 
 ## How to Contribute
