@@ -1,0 +1,59 @@
+name: Compatibility Report
+description: Report the compatibility status of a game on FreeMyXe.
+title: "[Compatibility] Game Name - Region"
+labels: ["compatibility", "game report"]
+body:
+  - type: markdown
+    attributes:
+      value: "## Please fill out the following details to help the community."
+  
+  - type: input
+    id: game-title
+    attributes:
+      label: "Game Title"
+      description: "Enter the full name of the game."
+      placeholder: "e.g., Sonic Generations"
+
+  - type: dropdown
+    id: game-region
+    attributes:
+      label: "Region"
+      description: "Select the game's region."
+      options:
+        - NTSC-U (USA)
+        - PAL (Europe)
+        - NTSC-J (Japan)
+        - World
+        - Other
+
+  - type: dropdown
+    id: compatibility-status
+    attributes:
+      label: "Does the game work?"
+      options:
+        - ✅ Yes (Fully functional)
+        - ⚠️ Partial (Works but has issues)
+        - ❌ No (Does not work)
+
+  - type: checkboxes
+    id: patched-xex
+    attributes:
+      label: "Have you made sure to patch the XEX file first before running it?"
+      description: "Make sure you've used XePatcher/XexTool before reporting an issue."
+      options:
+        - label: "Yes, I definitely have patched the XEX file."
+        - label: "No (why would you click this)"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Notes"
+      description: "Describe any issues, fixes, or observations."
+      placeholder: "Example: Game crashes after intro, but works with a patch made for RGH: example.com."
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs or Error Messages (if available)"
+      description: "Paste any logs, error messages, or debug output."
+      placeholder: "Example: Fatal crash at 0xXXXXXXXX."
