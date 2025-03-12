@@ -18,6 +18,7 @@ Compatibility reports are categorized as follows:
 | ✅ Works | Fully functional with no issues. |
 | ⚠️ Partially | Works, but has glitches or requires fixes. |
 | ❌ Borked | Does not work or crashes. |
+| 👤 Offline | Only use an offline account (not Xbox Live) |
 
 ### Categories
 - [Retail Games](/Retail.md)
@@ -34,18 +35,18 @@ We rely on the community to expand and maintain this database (though I will be 
 2. **Edit the relevant markdown file**
 3. **Use this format** when adding a new game:
    ```md
-   | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches) |
-   |----------------------------|:------:|---------------------------------|
+   | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches)      |
+   |----------------------------|:------:|--------------------------------------|
    | Example Game               | ⚠️     | Crashes after loading world 2 |
-   | Another Game               | ✅     | No issues found |
+   | Another Game               | ✅ 👤  | No issues found, use offline account |
    | Yet Another                | ❌     | Doesn't launch at all |
    ```
    So that it'll look like this:
 
-   | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches) |
-   |----------------------------|:------:|---------------------------------|
+   | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches)      |
+   |----------------------------|:------:|--------------------------------------|
    | Example Game               | ⚠️     | Crashes after loading world 2 |
-   | Another Game               | ✅     | No issues found |
+   | Another Game               | ✅ 👤  | No issues found, use offline account |
    | Yet Another                | ❌     | Doesn't launch at all |
 
 
