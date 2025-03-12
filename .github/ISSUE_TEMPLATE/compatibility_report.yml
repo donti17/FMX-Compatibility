@@ -15,19 +15,6 @@ body:
       placeholder: "e.g., Sonic Generations"
 
   - type: dropdown
-    id: game-region
-    attributes:
-      label: "Region"
-      description: "Select the game's region."
-      options:
-        - NTSC-U (USA)
-        - PAL (Europe)
-        - NTSC-J (Japan)
-        - World
-        - Other
-        - Homebrew
-
-  - type: dropdown
     id: compatibility-status
     attributes:
       label: "Does the game work?"
