@@ -27,7 +27,7 @@ Compatibility reports are categorized as follows:
 We rely on the community to expand and maintain this database (though I will be posting a lot here too with my findings!). To submit a compatibility report:
 
 1. **Fork this repo**
-2. **Edit the relevant markdown file** in the `games/` folder
+2. **Edit the relevant markdown file**
 3. **Use this format** when adding a new game:
    ```md
    | Game Title     | Region   | Works?     | Notes (Crashes, Fixes, Patches)      |
