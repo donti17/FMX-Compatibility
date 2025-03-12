@@ -30,10 +30,21 @@ We rely on the community to expand and maintain this database (though I will be 
 2. **Edit the relevant markdown file** in the `games/` folder
 3. **Use this format** when adding a new game:
    ```md
-   | Game Title | Region | Works? | Notes (Crashes, Fixes, Patches) |
-   |------------|--------|--------|----------------------------------|
-   | Example Game | NTSC-U | ⚠️ Partial | Crashes after loading world 2 |
-   ```
+   | Game Title     | Region   | Works?     | Notes (Crashes, Fixes, Patches)      |
+   |----------------|----------|------------|--------------------------------------|
+   | Example Game   | NTSC-U   | ⚠️ Partial | Crashes after loading world 2       |
+   | Another Game   | PAL      | ✅ Works   | No issues found                     |
+   | Yet Another    | NTSC-J   | ❌ Broken  | Doesn't launch at all               |```
+-
+   So that it'll look like this:
+
+   | Game Title     | Region   | Works?     | Notes (Crashes, Fixes, Patches)      |
+   |----------------|----------|------------|--------------------------------------|
+   | Example Game   | NTSC-U   | ⚠️ Partial | Crashes after loading world 2       |
+   | Another Game   | PAL      | ✅ Works   | No issues found                     |
+   | Yet Another    | NTSC-J   | ❌ Broken  | Doesn't launch at all               |
+
+
 4. **Submit a pull request (PR)** with your changes.
 
 Alternatively, you can report compatibility using **GitHub Issues**:
