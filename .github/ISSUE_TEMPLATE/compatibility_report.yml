@@ -31,9 +31,9 @@ body:
     attributes:
       label: "Does the game work?"
       options:
-        - ✅ Yes (Fully functional)
-        - ⚠️ Partial (Works but has issues)
-        - ❌ No (Does not work)
+        - ✅ Works (Fully functional)
+        - ⚠️ Partially (Works but has issues)
+        - ❌ Borked (Does not work)
 
   - type: checkboxes
     id: patched-xex
