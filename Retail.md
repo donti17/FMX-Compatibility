@@ -3,5 +3,5 @@
 
 | Game Title        | Region | Works? | Notes (Crashes, Fixes, Patches) |
 |-------------------|--------|:------:|---------------------------------|
-| Sonic Generations | World | ❌ | Crashes after SEGA logo animation    |
-| Sonic Unleashed | PAL | ✅ | Launches and plays perfectly after applying patches |
+| Sonic Generations | World | ❌      | Crashes after SEGA logo animation |
+| Sonic Unleashed   | PAL   | ✅      | Launches and plays perfectly    |
