@@ -48,7 +48,7 @@ We rely on the community to expand and maintain this database (though I will be 
 4. **Submit a pull request** with your changes.
 
 Alternatively, you can report compatibility using **GitHub Issues**:
-- Open an **Issue** and follow the provided template.
+- Open an [**Issue**](https://github.com/Brubhubedits/FMX-Compatibility/issues/new?template=compatibility_report.yml) and follow the provided template.
 
 > [!NOTE]
 > Make sure you're using the latest version of both [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
