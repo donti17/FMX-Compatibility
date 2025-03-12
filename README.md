@@ -3,7 +3,7 @@
 This is a community-driven compatibility database for games running on **FreeMyXe-patched Xbox 360 consoles**. The goal is to document which games work, which have issues, and any possible fixes.
 
 ## How to Use
-- **Check compatibility**: Browse the game lists ([Retail Games](/Retail.md)) or [Homebrew](/Homebrew.md) to see if a title works.
+- **Check compatibility**: Browse the game lists ([Retail Games](/Retail.md) or [Homebrew](/Homebrew.md)) to see if a title works.
 - **Contribute**: If you've tested a game, report your findings (see below).
 
 ## Game Compatibility List
