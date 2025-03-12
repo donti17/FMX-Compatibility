@@ -45,6 +45,15 @@ body:
         - label: "Yes, I definitely have patched the XEX file."
         - label: "No (why would you click this)"
 
+  - type: checkboxes
+    id: updates-removed
+    attributes:
+      label: "Have you tried removing Title Updates first"
+      description: "If you haven't, don't worry. Someone else can try it, or you can later."
+      options:
+        - label: "Yes"
+        - label: "No"
+
   - type: textarea
     id: notes
     attributes:
