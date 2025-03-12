@@ -61,4 +61,5 @@ Alternatively, you can report compatibility using **GitHub Issues**:
 This project is maintained by the Xbox 360 community! Special thanks to:
 - [**InvoxiPlayGames**](https://github.com/InvoxiPlayGames) for creating [**FreeMyXe**](https://github.com/InvoxiPlayGames/FreeMyXe) and discovering the Rock Band Blitz save file exploit.
 - [**grimdoomer**](https://github.com/grimdoomer) for developing [**Xbox360BadUpdate**](https://github.com/grimdoomer/Xbox360BadUpdate).
+- evangeloush ([u/3v4ng310u5](https://reddit.com/u/3v4ng310u5)) for helping out with a couple of questions and making an awesome [tutorial](https://www.reddit.com/r/360hacks/comments/1j7kaz8/running_actual_games_on_the_badupdate_exploit/)!
 
