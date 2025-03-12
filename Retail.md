@@ -1,6 +1,9 @@
 > [!NOTE]
 > Remember to patch your games! XePatcher is included in Tools.zip offered by [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest)
 
+> [!CAUTION]
+> Before adding a game to this list, try removing any title updates first. Sometimes games work when TUs are deleted.
+
 | Game Title                 | Region | Works? | Notes (Crashes, Fixes, Patches) |
 |----------------------------|--------|:------:|---------------------------------|
 | Midnight Club: Los Angeles | ?      | ✅     | [Reported working](https://www.reddit.com/r/360hacks/comments/1j87wwc/midnight_club_los_angeles_running_on_bad_updated/) by [u/Octoomy](https://reddit.com/u/Octoomy) | 
