@@ -5,7 +5,7 @@ This is a community-driven compatibility database for games running on [**FreeMy
 ## How to Use
 - **Check compatibility**: Browse the game lists ([Retail Games](/Retail.md) or [Homebrew](/Homebrew.md)) to see if a title works.
 - **Contribute**: If you've tested a game, report your findings (see below).
-- 
+  
 > [!NOTE]
 > This repo is made for **legally dumped games** and homebrew. This does **not** serve for piracy.
 > While pirated games *will usually* run the same, this repo is made for people to see which legally dumped games and homebrew will run and therefore does not support or endorse piracy in any way.
