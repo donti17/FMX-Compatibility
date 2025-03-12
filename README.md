@@ -1,6 +1,6 @@
 # FreeMyXe Compatibility Database
 
-This is a community-driven compatibility database for games running on **FreeMyXe-patched Xbox 360 consoles**. The goal is to document which games work, which have issues, and any possible fixes.
+This is a community-driven compatibility database for games running on [**FreeMyXe**](https://github.com/InvoxiPlayGames/FreeMyXe)**-patched Xbox 360 consoles**. The goal is to document which games work, which have issues, and any possible fixes.
 
 ## How to Use
 - **Check compatibility**: Browse the game lists ([Retail Games](/Retail.md) or [Homebrew](/Homebrew.md)) to see if a title works.
@@ -24,7 +24,7 @@ Compatibility reports are categorized as follows:
 - **Arcade games should work out of the box** and generally do not require patching. If an arcade game does not work, feel free to let me know via the issues tab and I can get an arcade file.
 
 ## How to Contribute
-We rely on the community to expand and maintain this database. To submit a compatibility report:
+We rely on the community to expand and maintain this database (though I will be posting a lot here too with my findings!). To submit a compatibility report:
 
 1. **Fork this repo**
 2. **Edit the relevant markdown file** in the `games/` folder
@@ -38,6 +38,8 @@ We rely on the community to expand and maintain this database. To submit a compa
 
 Alternatively, you can report compatibility using **GitHub Issues**:
 - Open an **Issue** and follow the provided template.
+
+Note: Make sure you're using the latest version of both [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
 
 ## License
 This project is licensed under **CC0 1.0 Universal (Public Domain Dedication)**. This means:
