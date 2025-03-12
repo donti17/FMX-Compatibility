@@ -6,5 +6,5 @@
 
 | Homebrew Title     | Works? | Notes (Crashes, Fixes, Patches) |
 |--------------------|:------:|---------------------------------|
-| DashLaunch         | ⚠️     | DO NOT PRESS INSTALL! YOU WILL BRICK YOUR CONSOLE! It runs afterwards but there's no real use that I'm aware of. |
-| XeXmenu            | ✅     | Works as expected, no issues found :D |
+| DashLaunch         | ⚠️     | DO NOT PRESS INSTALL! YOU WILL BRICK YOUR CONSOLE! It runs afterwards but there's no real use that I'm aware of. (Tested on beta 2, try beta 3 whenever possible) |
+| XeXmenu            | ✅     | Works as expected, no issues found :D (Tested on beta 3)|
