@@ -11,9 +11,9 @@ Compatibility reports are categorized as follows:
 
 | Status | Meaning |
 |--------|---------|
-| ✅ Yes | Fully functional with no issues. |
-| ⚠️ Partial | Works, but has glitches or requires fixes. |
-| ❌ No | Does not work or crashes. |
+| ✅ Works | Fully functional with no issues. |
+| ⚠️ Partially Works | Works, but has glitches or requires fixes. |
+| ❌ Borked | Does not work or crashes. |
 
 ### Categories
 - [Retail Games](/Retail.md)
@@ -34,7 +34,7 @@ We rely on the community to expand and maintain this database (though I will be 
    |----------------|----------|------------|--------------------------------------|
    | Example Game   | NTSC-U   | ⚠️ Partial | Crashes after loading world 2       |
    | Another Game   | PAL      | ✅ Works   | No issues found                     |
-   | Yet Another    | NTSC-J   | ❌ Broken  | Doesn't launch at all               |
+   | Yet Another    | NTSC-J   | ❌ Borked  | Doesn't launch at all               |
    ```
    So that it'll look like this:
 
@@ -42,7 +42,7 @@ We rely on the community to expand and maintain this database (though I will be 
    |----------------|----------|------------|--------------------------------------|
    | Example Game   | NTSC-U   | ⚠️ Partial | Crashes after loading world 2       |
    | Another Game   | PAL      | ✅ Works   | No issues found                     |
-   | Yet Another    | NTSC-J   | ❌ Broken  | Doesn't launch at all               |
+   | Yet Another    | NTSC-J   | ❌ Borked  | Doesn't launch at all               |
 
 
 4. **Submit a pull request** with your changes.
