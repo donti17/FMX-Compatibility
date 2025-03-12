@@ -1,5 +1,6 @@
 > [!CAUTION]
 > **DO NOT RUN ANYTHING THAT WRITES TO OR FLASHES THE NAND! YOU WILL BRICK YOUR CONSOLE!**
+
 > [!WARNING]
 > **Always** use a **local account** when running homebrew and **stay offline.**
 
