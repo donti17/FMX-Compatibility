@@ -34,19 +34,19 @@ We rely on the community to expand and maintain this database (though I will be 
 2. **Edit the relevant markdown file**
 3. **Use this format** when adding a new game:
    ```md
-   | Game/Homebrew Title        | Region | Works? | Notes (Crashes, Fixes, Patches) |
-   |----------------------------|--------|:------:|---------------------------------|
-   | Example Game               | NTSC-U | ⚠️     | Crashes after loading world 2 |
-   | Another Game               | PAL    | ✅     | No issues found |
-   | Yet Another                | NTSC-J | ❌     | Doesn't launch at all |
+   | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches) |
+   |----------------------------|:------:|---------------------------------|
+   | Example Game               | ⚠️     | Crashes after loading world 2 |
+   | Another Game               | ✅     | No issues found |
+   | Yet Another                | ❌     | Doesn't launch at all |
    ```
    So that it'll look like this:
 
-   | Game/Homebrew Title        | Region | Works? | Notes (Crashes, Fixes, Patches) |
-   |----------------------------|--------|:------:|---------------------------------|
-   | Example Game               | NTSC-U | ⚠️     | Crashes after loading world 2 |
-   | Another Game               | PAL    | ✅     | No issues found |
-   | Yet Another                | NTSC-J | ❌     | Doesn't launch at all |
+   | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches) |
+   |----------------------------|:------:|---------------------------------|
+   | Example Game               | ⚠️     | Crashes after loading world 2 |
+   | Another Game               | ✅     | No issues found |
+   | Yet Another                | ❌     | Doesn't launch at all |
 
 
 4. **Submit a pull request** with your changes.
