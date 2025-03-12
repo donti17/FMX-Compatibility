@@ -45,17 +45,13 @@ We rely on the community to expand and maintain this database (though I will be 
    | Yet Another    | NTSC-J   | ❌ Broken  | Doesn't launch at all               |
 
 
-4. **Submit a pull request (PR)** with your changes.
+4. **Submit a pull request** with your changes.
 
 Alternatively, you can report compatibility using **GitHub Issues**:
 - Open an **Issue** and follow the provided template.
 
-Note: Make sure you're using the latest version of both [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
-
-## License
-This project is licensed under **CC0 1.0 Universal (Public Domain Dedication)**. This means:
-- No restrictions on use, modification, or redistribution.
-- No attribution required.
+> [!NOTE]
+> Make sure you're using the latest version of both [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
 
 ## Credits
 This project is maintained by the Xbox 360 community! Special thanks to:
