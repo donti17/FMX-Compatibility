@@ -4,6 +4,7 @@
 
 | Game Title                      | Works? | Notes (Crashes, Fixes, Patches)                                                                                                                                          |
 |---------------------------------|:------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dragon Ball: Raging Blast 2 | ✅ | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/3) by [estermoicleo4000](https://github.com/estermoicleo4000) including DLCs and movies |
 | GTA San Andreas (2014 Remaster) |   ✅   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/2) by [estermoicleo4000](https://github.com/estermoicleo4000) Even managed to work with some mods. |
 | Marble Blast Ultra              |   ✅   | No patches needed.                                                                                                                                                       |
 | Midnight Club: Los Angeles      |   ✅   | [Reported working](https://www.reddit.com/r/360hacks/comments/1j87wwc/midnight_club_los_angeles_running_on_bad_updated/) by [u/Octoomy](https://reddit.com/u/Octoomy)    | 
