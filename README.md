@@ -34,8 +34,8 @@ We rely on the community to expand and maintain this database (though I will be 
    |----------------|----------|------------|--------------------------------------|
    | Example Game   | NTSC-U   | ⚠️ Partial | Crashes after loading world 2       |
    | Another Game   | PAL      | ✅ Works   | No issues found                     |
-   | Yet Another    | NTSC-J   | ❌ Broken  | Doesn't launch at all               |```
--
+   | Yet Another    | NTSC-J   | ❌ Broken  | Doesn't launch at all               |
+   ```
    So that it'll look like this:
 
    | Game Title     | Region   | Works?     | Notes (Crashes, Fixes, Patches)      |
