@@ -1,6 +1,6 @@
 name: Compatibility Report
 description: Report the compatibility status of a game on FreeMyXe.
-title: "[Compatibility] Game Name - Region"
+title: "[Compatibility] Title"
 labels: ["compatibility", "game report"]
 body:
   - type: markdown
@@ -8,10 +8,10 @@ body:
       value: "## Please fill out the following details to help the community."
   
   - type: input
-    id: game-title
+    id: title
     attributes:
-      label: "Game Title"
-      description: "Enter the full name of the game."
+      label: "Title"
+      description: "Enter the full name of the Game or Homebrew."
       placeholder: "e.g., Sonic Generations"
 
   - type: dropdown
@@ -25,6 +25,7 @@ body:
         - NTSC-J (Japan)
         - World
         - Other
+        - Homebrew
 
   - type: dropdown
     id: compatibility-status
