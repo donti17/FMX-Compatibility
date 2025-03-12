@@ -4,7 +4,7 @@
 
 | Game Title                      | Region | Works? | Notes (Crashes, Fixes, Patches)                                                                                                                                       |
 |---------------------------------|--------|:------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| GTA San Andreas (2014 Remaster) | NTSC-U |   ✅   | Launches as expected. Even managed to work with some mods. [Reported](https://github.com/XDanfr/FMX-Compatibility/issues/2) by [estermoicleo4000](https://github.com/estermoicleo4000) |
+| GTA San Andreas (2014 Remaster) | NTSC-U |   ✅   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/2) by [estermoicleo4000](https://github.com/estermoicleo4000) Even managed to work with some mods. |
 | Marble Blast Ultra              | World  |   ✅   | No patches needed.                                                                                                                                                    |
 | Midnight Club: Los Angeles      | ?      |   ✅   | [Reported working](https://www.reddit.com/r/360hacks/comments/1j87wwc/midnight_club_los_angeles_running_on_bad_updated/) by [u/Octoomy](https://reddit.com/u/Octoomy) | 
 | Minecraft: Xbox 360 Edition     | World  |   ❌   | Launches into the main menu but crashes the console while loading into a world. Definitely needs more testing to account for title updates.                           |
