@@ -1,1 +1,3 @@
-empty for now
+| Game Title                      | Works? | Notes (Crashes, Fixes, Patches)                                                                                                                                          |
+|---------------------------------|:------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Minecraft: Xbox 360 Edition     |   ❌   | Launches into the main menu but crashes the console while loading into a world. Definitely needs more testing to account for title updates. |
