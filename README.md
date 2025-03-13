@@ -11,7 +11,7 @@ This is a community-driven compatibility database for games running on [**FreeMy
 > While pirated games *will usually* run the same, this repo is made for people to see which legally dumped games and homebrew will run and therefore does not support or endorse piracy in any way.
 
 ## Game Compatibility List
-Compatibility reports are categorized as follows:
+Compatibility reports are categorised as follows:
 
 | Status | Meaning |
 |--------|---------|
