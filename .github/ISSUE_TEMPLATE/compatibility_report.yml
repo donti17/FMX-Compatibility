@@ -15,7 +15,7 @@ body:
       placeholder: "e.g., Sonic Generations"
 
   - type: dropdown
-    id: method
+    id: type
     attributes:
       label: "What type of application is this?"
       options:
