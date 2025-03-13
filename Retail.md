@@ -7,7 +7,7 @@
 > From now on, reports should include which patching method was used to get games to run.
 
 | Game Title                      | Works? | Method | Notes (Crashes, Fixes, Patches)                                                                                                                                           |
-|---------------------------------|:------:|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------|:------:|:-------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dragon Ball: Raging Blast 2     |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/3) by [olakase123lol](https://github.com/olakase123lol) including DLCs and movies                  |
 | Far Cry 4                       |   ⚠️   | XexTool | **Remove title updates!** [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/4) by [SessaoRGH](https://github.com/SessaoRGH)                          |
 | FIFA Street                     |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/pull/6) by [pinzit](https://github.com/pinzit) (tested on beta 3)                                         |
