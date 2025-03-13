@@ -15,9 +15,19 @@ body:
       placeholder: "e.g., Sonic Generations"
 
   - type: dropdown
+    id: method
+    attributes:
+      label: "What type of application is this?"
+      options:
+        - Homebrew (XEX/ELF)
+        - Game (XEX)
+        - GoD
+        - XBLA
+
+  - type: dropdown
     id: compatibility-status
     attributes:
-      label: "Does the game work?"
+      label: "Does the title work?"
       options:
         - ✅ Works (Fully functional)
         - ⚠️ Partially (Works but has issues)
@@ -26,11 +36,20 @@ body:
   - type: checkboxes
     id: patched-xex
     attributes:
-      label: "Have you made sure to patch the XEX file first before running it?"
-      description: "Make sure you've used XePatcher/XexTool before reporting an issue."
+      label: "Have you made sure to patch the files first before running it?"
+      description: "Make sure you've used one of the available methods before reporting an issue."
       options:
-        - label: "Yes, I definitely have patched the XEX file."
-        - label: "No (why would you click this)"
+        - label: "Yes, I definitely have patched the XEX file and any other necessary files.."
+        - label: "No (some XBLA titles)"
+
+  - type: dropdown
+    id: method
+    attributes:
+      label: "Which method did you use?"
+      options:
+        - Manual Patching
+        - XexTool
+        - GoD/XBLA Patching
 
   - type: checkboxes
     id: updates-removed
@@ -40,6 +59,7 @@ body:
       options:
         - label: "Yes"
         - label: "No"
+        - label: "This is homebrew."
 
   - type: textarea
     id: notes
