@@ -29,7 +29,7 @@ Compatibility reports are categorized as follows:
 - **Arcade games should work out of the box** and generally run perfectly fine in GoD format. If an arcade game does not work, feel free to let me know via the issues tab just like any other game.
 
 > [!NOTE]
-> If a game doesn't work via XexTool, it's very likely that it'll work via [this method](https://www.youtube.com/watch?v=tUajcJjVaPY). This repo doesn't currently cover it.
+> If a game doesn't work via XexTool, it's very likely that it'll work via [this method](https://www.youtube.com/watch?v=tUajcJjVaPY). This is the recommended method.
 
 ## How to Contribute
 We rely on the community to expand and maintain this database (though I will be posting a lot here too with my findings!). To submit a compatibility report:
