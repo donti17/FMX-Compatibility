@@ -28,6 +28,9 @@ Compatibility reports are categorized as follows:
 - All games and homebrew listed in this database are assumed to have been patched using **XePatcher/XexTool** (Tools.zip found from [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/download/latest/Tools.zip)) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
 - **Arcade games should work out of the box** and generally run perfectly fine as a GoD or patched XEX. If an arcade game does not work, feel free to let me know via the issues tab and I can get an arcade file.
 
+> [!NOTE]
+> If a game doesn't work via XexTool, it's very likely that it'll work via [this method](https://www.youtube.com/watch?v=tUajcJjVaPY). This repo doesn't currently cover it.
+
 ## How to Contribute
 We rely on the community to expand and maintain this database (though I will be posting a lot here too with my findings!). To submit a compatibility report:
 
