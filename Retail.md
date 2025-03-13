@@ -1,6 +1,5 @@
 > [!NOTE]
 > - Remember to patch your games! Follow either tutorial in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki).
-> - XePatcher is included in Tools.zip offered by [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest)
 > - Before adding a game to this list, try removing any title updates first. Sometimes games work when TUs are deleted.
 
 > [!WARNING]
