@@ -3,6 +3,7 @@
 
 > [!WARNING]
 > **Always use a non-Xbox Live account** when running homebrew and **do not connect to the internet.**
+> Homebrew that will get you **almost definitely banned** from Xbox Live will be marked with 👤 if you insist on connecting to the internet/using an Xbox Live account.
 
 | Homebrew Title          | Works? | Notes (Crashes, Fixes, Patches)                                                                                                                                                                                                                    |
 |-------------------------|:------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
