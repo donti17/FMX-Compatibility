@@ -64,8 +64,8 @@ Alternatively, you can report compatibility using **GitHub Issues**:
 ## Roadmap
 - [X] Create Arcade.md
 - [ ] Update the readme to account for the new patching method
-- [ ] Create a wiki with these instructions
-- [ ] Update the issue submitting questions
+- [X] Create a wiki with these instructions
+- [X] Update the issue submitting questions
 - [ ] Add a notice to Retail.md, Arcade.md and Homebrew.md
 
 ## Credits
