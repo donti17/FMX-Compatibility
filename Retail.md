@@ -12,3 +12,11 @@
 | Orange Box, The                 |   ⚠️   | **Remove title updates!** [Reported working](https://www.reddit.com/r/360hacks/comments/1j7kaz8/comment/mhezu82) by [u/3v4ng310u5](https://reddit.com/u/3v4ng310u5)      |
 | Sonic Generations               |   ❌   | Crashes after SEGA logo animation (tested on beta 2)                                                                                                                     |
 | Sonic Unleashed                 |   ✅   | Launches and plays perfectly (tested on beta 3)                                                                                                                          |
+| Forza Horizon 1                 |   ✅   | Launches and plays perfectly (tested on beta 3)
+| Terraria                        |   ❌   | Doesn't start; Just sends you back to the dashboard. (tested on beta 3)
+| Castle Crashers                 |   ✅   | No patches needed.
+| Battleblock Theater             |   ✅   | No patches needed.
+| Plants Vs. Zombies              |   ✅   | No patches needed.
+| Jet Set Radio                   |   ✅   | No patches needed.
+| Super Meat Boy                  |   ✅   | No patches needed.
+| FIFA Street                     |   ✅   | Launches and plays perfectly (tested on beta 3)
