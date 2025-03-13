@@ -58,6 +58,12 @@ Alternatively, you can report compatibility using **GitHub Issues**:
 > [!NOTE]
 > Make sure you're using the latest version of both [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
 
+## Roadmap
+- [ ] Update the readme to account for the new patching method
+- [ ] Create a wiki with these instructions
+- [ ] Update the issue submitting questions
+- [ ] Add a notice to Retail.md, Arcade.md and Homebrew.md
+
 ## Credits
 This project is maintained by the Xbox 360 community! Special thanks to:
 - [**InvoxiPlayGames**](https://github.com/InvoxiPlayGames) for creating [**FreeMyXe**](https://github.com/InvoxiPlayGames/FreeMyXe) and discovering the Rock Band Blitz save file exploit.
