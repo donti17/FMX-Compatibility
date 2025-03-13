@@ -6,6 +6,8 @@
 |---------------------------------|:------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dragon Ball: Raging Blast 2 | ✅ | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/3) by [estermoicleo4000](https://github.com/estermoicleo4000) including DLCs and movies |
 | Far Cry 4                       |   ✅    | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/4) by [SessaoRGH](https://github.com/SessaoRGH) |
+| FIFA Street                     |   ✅   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/pull/6) by [pinzit](https://github.com/pinzit) (tested on beta 3) |
+| Forza Horizon                   |   ✅   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/pull/6) by [pinzit](https://github.com/pinzit) (tested on beta 3) |
 | GTA San Andreas (2014 Remaster) |   ✅   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/2) by [estermoicleo4000](https://github.com/estermoicleo4000) Even managed to work with some mods. |
 | Marble Blast Ultra              |   ✅   | No patches needed.                                                                                                                                                       |
 | Midnight Club: Los Angeles      |   ✅   | [Reported working](https://www.reddit.com/r/360hacks/comments/1j87wwc/midnight_club_los_angeles_running_on_bad_updated/) by [u/Octoomy](https://reddit.com/u/Octoomy)    | 
