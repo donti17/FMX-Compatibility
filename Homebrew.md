@@ -1,13 +1,13 @@
 > [!CAUTION]
-> **DO NOT RUN ANYTHING THAT WRITES TO THE NAND! YOU WILL BRICK YOUR CONSOLE!**
-
-> [!WARNING]
-> **Always use a non-Xbox Live account** when running homebrew and **do not connect to the internet.**
-> Homebrew that will get you **almost definitely banned** from Xbox Live will be marked with 👤 if you insist on connecting to the internet/using an Xbox Live account.
+> - **DO NOT RUN ANYTHING THAT WRITES TO THE NAND! YOU WILL BRICK YOUR CONSOLE!**
+> - **Always use a non-Xbox Live account** when running homebrew and **do not connect to the internet.**
+> - Homebrew that will get you **almost definitely banned** from Xbox Live will be marked with 👤 if you insist on connecting to the internet/using an Xbox Live account.
 
 > [!NOTE]
 > - Remember to patch your apps! Follow either tutorial in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki).
-> - 
+
+> [!WARNING]
+> From now on, reports should include which patching method was used to get games to run.
 
 | Homebrew Title          | Works? | Notes (Crashes, Fixes, Patches)                                                                                                                                           |
 |-------------------------|:------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
