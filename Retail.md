@@ -5,7 +5,7 @@
 | Game Title                      | Works? | Notes (Crashes, Fixes, Patches)                                                                                                                                          |
 |---------------------------------|:------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dragon Ball: Raging Blast 2 | ✅ | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/3) by [olakase123lol](https://github.com/olakase123lol) including DLCs and movies |
-| Far Cry 4                       |   ✅    | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/4) by [SessaoRGH](https://github.com/SessaoRGH) |
+| Far Cry 4                       |   ⚠️   | **Remove title updates!** [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/4) by [SessaoRGH](https://github.com/SessaoRGH) |
 | FIFA Street                     |   ✅   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/pull/6) by [pinzit](https://github.com/pinzit) (tested on beta 3) |
 | Forza Horizon                   |   ✅   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/pull/6) by [pinzit](https://github.com/pinzit) (tested on beta 3) |
 | GTA San Andreas (2014 Remaster) |   ✅   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/2) by [olakase123lol](https://github.com/olakase123lol) Even managed to work with some mods. |
