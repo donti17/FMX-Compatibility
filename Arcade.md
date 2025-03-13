@@ -1,3 +1,6 @@
+> [!NOTE]
+> - Remember to patch your games if they need them! Follow either tutorial in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki).
+
 | Game Title                      | Works? | Notes (Crashes, Fixes, Patches)                                                                                                                                          |
 |---------------------------------|:------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Battleblock Theater             |   ✅   | No patches needed. ([#6](https://github.com/XDanfr/FMX-Compatibility/pull/6))                                                                                            |
