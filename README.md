@@ -62,11 +62,7 @@ Alternatively, you can report compatibility using **GitHub Issues**:
 > Make sure you're using the latest version of both [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
 
 ## Roadmap
-- [X] Create Arcade.md
-- [ ] Update the readme to account for the new patching method
-- [X] Create a wiki with these instructions
-- [X] Update the issue submitting questions
-- [ ] Add a notice to Retail.md, Arcade.md and Homebrew.md
+- [X] All requirements have been fulfilled so far! Let me know if you want to see anything new here.
 
 ## Credits
 This project is maintained by the Xbox 360 community! Special thanks to:
