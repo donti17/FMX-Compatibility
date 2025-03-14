@@ -1,0 +1,45 @@
+name: Repo Suggestion
+description: Submit a suggestion to improve the FreeMyXe compatibility repo.
+title: "[Suggestion] Suggestion Title"
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: "## Please fill out the following details to help improve the repo."
+  
+  - type: input
+    id: suggestion-title
+    attributes:
+      label: "Suggestion Title"
+      description: "Enter a short title for your suggestion."
+      placeholder: "e.g., Add a filtering feature for compatibility status"
+
+  - type: textarea
+    id: suggestion-description
+    attributes:
+      label: "Detailed Suggestion"
+      description: "Describe your suggestion in detail. Explain why it's needed and how it could improve the repo."
+      placeholder: "Example: It would be helpful to have a filtering option to search for games based on compatibility status (e.g., Works, Partially, Borked)."
+
+  - type: checkboxes
+    id: priority
+    attributes:
+      label: "How important is this suggestion?"
+      options:
+        - label: "Low"
+        - label: "Medium"
+        - label: "High"
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: "Additional Information"
+      description: "If applicable, provide any additional information or context for your suggestion. (Put the yap here)"
+      placeholder: "Example: I noticed this when browsing through the games list, and it would save time in searching for compatible titles."
+
+  - type: input
+    id: contact-info
+    attributes:
+      label: "Contact Information (Optional)"
+      description: "If you'd like to be contacted regarding your suggestion, please provide your email or preferred contact method."
+      placeholder: "e.g., replying to this issue, example@example.com"
