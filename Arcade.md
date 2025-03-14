@@ -1,6 +1,6 @@
 > [!NOTE]
 > - Remember to patch your Games if they need to be! Follow either tutorial in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki).
-> - Before adding a game to this list, **try removing any title updates**. Some games may only work when title updates are deleted.
+> - Before adding a Game to this list, **try removing any title updates**. Some Games may only work when title updates are deleted.
 
 | Game Title                      | Works? | Method  | Notes (Crashes, Fixes, Patches)                                                                                                                                          |
 |---------------------------------|:------:|:-------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
