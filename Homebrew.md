@@ -18,6 +18,7 @@
 | Freestyle 3             |   ✅   | XexTool | I tried the patched version of FSD 3 that fixes all bugs and it runs great. **Do not set it as the default dashboard.**                                                  |
 | Simple 360 NAND Flasher |   ✅   | XexTool | Successfully dumps your NAND to your Bad Update USB. **Obviously**, do not place an updflash.bin beside the homebrew's XEX or try to flash your NAND in any way.         |
 | XeXmenu                 |   ✅   | Xex/Man | Works as expected, no issues found :D (Tested on beta 3)                                                                                                                 |
+| XELL                    |   ✅   |   N/A   | Get your Xell .bin files and FreeMyXe should recognise them and ask you if you want to boot it.                                                                          |
 | XM360                   |   ✅   | XexTool | XBLA Games and DLC can be unlocked using XM360. **NOTE: This will prevent them from launching without being in a modded state, so back up your Games before unlocking.** |
 
 ### Emulators
