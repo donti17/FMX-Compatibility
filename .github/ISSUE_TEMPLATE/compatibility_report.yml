@@ -1,12 +1,12 @@
 name: Compatibility Report
 description: Report the compatibility status of software on FreeMyXe.
 title: "[Compatibility] Title"
-labels: ["compatibility"]
+labels: ["compatibility", "Game report"]
 body:
   - type: markdown
     attributes:
       value: "## Please fill out the following details to help the community."
-  
+
   - type: input
     id: title
     attributes:
@@ -17,12 +17,15 @@ body:
   - type: dropdown
     id: type
     attributes:
-      label: "What type of application is this?"
+      label: "What type of software is this?"
       options:
+        - Disc/ISO (Extracted Format - XeX)
+        - GoD (Container Format)
+        - GoD (Extracted Format - XeX)
+        - GoD (Iso2God Container Format) 
+        - Xbox Live Arcade
         - Homebrew (XEX/ELF)
-        - Game (XEX)
-        - GoD
-        - XBLA
+        - Patch (XEX)
 
   - type: dropdown
     id: compatibility-status
@@ -39,7 +42,7 @@ body:
       label: "Have you made sure to patch the files first before running it?"
       description: "Make sure you've used one of the available methods before reporting an issue."
       options:
-        - label: "Yes, I definitely have patched the XEX file and any other necessary files.."
+        - label: "Yes, I definitely have patched the XEX file and any other necessary files."
         - label: "No (some XBLA titles)"
 
   - type: dropdown
@@ -54,12 +57,22 @@ body:
   - type: checkboxes
     id: updates-removed
     attributes:
-      label: "Did you need to remove Title Updates first"
-      description: "If you haven't tried and it's partial/borked, don't worry. Someone else can try it, or you can later."
+      label: "Title Update Specifications"
+      description: "Did you apply any Title Updates for this Game?"
       options:
-        - label: "Yes"
+        - label: "Base Game - No Title Update Installed"
+        - label: "Title Update Installed"
+        - label: "I Had To Remove a Title Update For The Game To Work"
+        - label: "Does Not Apply (Homebrew)"
+
+  - type: checkboxes
+    id: Homebrew-elf
+    attributes:
+      label: "Homebrew ELF Format"
+      description: "Some Homebrew applications may not work correctly on certain Xbox 360 motherboard revisions (Corona or Winchester). Applications pre-2013 may also have compatibility issues."
+      options:
+        - label: "Yes, this is an ELF-formatted Homebrew application"
         - label: "No"
-        - label: "This is Homebrew."
 
   - type: textarea
     id: notes
