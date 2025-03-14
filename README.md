@@ -3,7 +3,8 @@ These are people that can approve/decline issues/pull requests and directly edit
 
 # FreeMyXe Compatibility Database
 
-This is a community-driven compatibility database for Games and Homebrew running on [**FreeMyXe**](https://github.com/InvoxiPlayGames/FreeMyXe)**-patched Xbox 360 consoles**. The goal is to document which Games work, which have issues, and any possible fixes.
+This is a community-driven compatibility database for Games and Homebrew running on [**FreeMyXe**](https://github.com/InvoxiPlayGames/FreeMyXe)**-patched Xbox 360 consoles**.
+The goal is to document which Games and Homebrew work, which have issues, and any possible fixes.
 
 ### How to Use:
 1. **Check Compatibility**:  
@@ -30,24 +31,24 @@ Compatibility reports are categorised as follows:
 | 👤 Offline | Only use an offline account (not Xbox Live) to prevent a ban. |
 
 ## Assumptions
-- All Games and Homebrew listed in this database are assumed to have been patched using one of the methods in the [**Wiki**](https://github.com/XDanfr/FMX-Compatibility/wiki) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
+- All s and Homebrew listed in this database are assumed to have been patched using one of the methods in the [**Wiki**](https://github.com/XDanfr/FMX-Compatibility/wiki) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
 - **Arcade games should work out of the box** in GoD format, but if you experience any issues, please report them via the issues tab or add them to the database.
 
 > [!NOTE]
-> If a Game doesn't work via XexTool, it's very likely that it'll work via [this method](https://www.youtube.com/watch?v=tUajcJjVaPY) (video). This is the recommended method.
+> If a Game or Homebrew doesn't work via XexTool, it's very likely that it'll work via [this method](https://www.youtube.com/watch?v=tUajcJjVaPY) (video). This is the recommended method.
 
 ## Known Issues and Troubleshooting
 - **Game not working after patching?**  
   Make sure you followed the recommended patching method outlined in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki/Recommended-method:-How-to-patch-Title-Updates).  
 - **Problems with Indie Games?**  
-  Indie games often require an Xbox Live connection, which could lead to a potential **ban** from Microsoft if you are using FreeMyXe. While these games will generally work when connected, we strongly **recommend using an offline account** to prevent any risk.
+  Indie Games often require an Xbox Live connection, which could lead to a potential **ban** from Microsoft if you are using FreeMyXe. While these games will generally work when connected, we strongly **recommend using an offline account** to prevent any risk.
 
 ## How to Contribute
 We rely on the community to expand and maintain this database (though I will be posting a lot here too with my findings!). To submit a compatibility report:
 
 1. **Fork this repo**
 2. **Edit the relevant markdown file**
-3. **Use this format** when adding a new Game:
+3. **Use this format** when adding a new Game or Homebrew:
    ```md
    | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches)      |
    |----------------------------|:------:|--------------------------------------|
