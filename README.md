@@ -27,18 +27,20 @@ Compatibility reports are categorised as follows:
 | ✅ Works | Fully functional with no issues. |
 | ⚠️ Partially | Works, but has glitches or requires fixes. |
 | ❌ Borked | Does not work or crashes. |
-| 👤 Offline | Only use an offline account (not Xbox Live) |
-
-### Categories
-- [Retail Games](/Retail.md)
-- [Homebrew](/Homebrew.md)
+| 👤 Offline | Only use an offline account (not Xbox Live) to prevent a ban. |
 
 ## Assumptions
 - All games and homebrew listed in this database are assumed to have been patched using one of the methods in the [**Wiki**](https://github.com/XDanfr/FMX-Compatibility/wiki) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
 - **Arcade games should work out of the box** and generally run perfectly fine in GoD format. If an arcade game does not work, feel free to let me know via the issues tab just like any other game.
 
 > [!NOTE]
-> If a game doesn't work via XexTool, it's very likely that it'll work via [this method](https://www.youtube.com/watch?v=tUajcJjVaPY). This is the recommended method.
+> If a game doesn't work via XexTool, it's very likely that it'll work via [this method](https://www.youtube.com/watch?v=tUajcJjVaPY) (video). This is the recommended method.
+
+## Known Issues and Troubleshooting
+- **Game not working after patching?**  
+  Make sure you followed the recommended patching method outlined in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki/Recommended-method:-How-to-patch-Title-Updates).  
+- **Problems with Indie Games?**
+  Indie games require you to be connected to Xbox Live, which isn't recommended as **you could risk a ban.** If you choose to connect anyway, your game *will* work (most of the time), but this isn't endorsed.
 
 ## How to Contribute
 We rely on the community to expand and maintain this database (though I will be posting a lot here too with my findings!). To submit a compatibility report:
