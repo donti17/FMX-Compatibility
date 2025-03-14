@@ -1,3 +1,6 @@
+This repo is looking for admins!
+These are people that can approve/decline issues/pull requests and directly edit the md files without the need for a pull request. Feel free to apply via the issues tab :)
+
 # FreeMyXe Compatibility Database
 
 This is a community-driven compatibility database for games running on [**FreeMyXe**](https://github.com/InvoxiPlayGames/FreeMyXe)**-patched Xbox 360 consoles**. The goal is to document which games work, which have issues, and any possible fixes.
