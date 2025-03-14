@@ -14,7 +14,7 @@
 | Call of Duty WaW                |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Call of Juarez                  |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Dark Sector                     |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
-| Dark Souls: Prepare to Die      |   ❌   |   GoD   | [Reported not working](https://github.com/XDanfr/FMX-Compatibility/issues/31) by [Evangelous](https://github.com/Evangelous)                                             |
+| Dark Souls (Prepare to Die)     |   ❌   |   GoD   | [Reported not working](https://github.com/XDanfr/FMX-Compatibility/issues/31) by [Evangelous](https://github.com/Evangelous)                                             |
 | Dark Souls 2                    |   ⚠️   |   GoD   | **Title Updates don't work**. [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/31) by [Evangelous](https://github.com/Evangelous)                   |
 | Deadly Premonition              |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/30) by [Sakimotor](https://github.com/Sakimotor)
 | Devil May Cry 4                 |   ⚠️   |   GoD   | **Title Updates don't work**. [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/31) by [Evangelous](https://github.com/Evangelous)                   |
