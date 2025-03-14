@@ -37,6 +37,7 @@
 | Halo 3                          |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Lollipop Chainsaw               |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Midnight Club: Los Angeles      |   ✅   | XexTool | [Reported working](https://www.reddit.com/r/360hacks/comments/1j87wwc/midnight_club_los_angeles_running_on_bad_updated/) by [u/Octoomy](https://reddit.com/u/Octoomy)    |
+| Minecraft Story Mode            |   ✅   |  GoD   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/23) by [SessaoRGH](https://github.com/SessaoRGH)    |
 | Modern Warfare 2                |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/4) by [SessaoRGH](https://github.com/SessaoRGH)                                                    |
 | MorphX                          |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | My Horse and Me 2               |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
