@@ -1,4 +1,4 @@
-This repo is looking for admins!
+This repo is looking for **collaborators**!
 These are people that can approve/decline issues/pull requests and directly edit the md files without the need for a pull request. Feel free to apply via the issues tab :)
 
 # FreeMyXe Compatibility Database
