@@ -10,7 +10,7 @@ This is a community-driven compatibility database for games running on [**FreeMy
    Browse the [Retail Games](/Retail.md) or [Homebrew](/Homebrew.md) lists to see if a title works with FreeMyXe.
 
 2. [**Contribute**](#how-to-contribute):  
-   If you've tested a game, contribute your findings by creating a pull request or using the Issues tab to report compatibility.
+   If you've tested a game, contribute your findings by creating a pull request or using the Issues tab to report compatibility. See [How to Contribute](#how-to-contribute) for more.
 
 3. **Additional Information**:  
    Visit the [**Wiki**](https://github.com/XDanfr/FMX-Compatibility/wiki) for more detailed guides on testing and patching methods.
