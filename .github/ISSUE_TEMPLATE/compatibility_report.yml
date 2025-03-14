@@ -1,7 +1,7 @@
 name: Compatibility Report
 description: Report the compatibility status of a game on FreeMyXe.
 title: "[Compatibility] Title"
-labels: ["compatibility", "game report"]
+labels: ["compatibility"]
 body:
   - type: markdown
     attributes:
