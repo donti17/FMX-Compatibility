@@ -1,5 +1,5 @@
 This repo is looking for **collaborators**!
-These are people that can approve/decline issues/pull requests and directly edit the md files without the need for a pull request. Feel free to apply via the issues tab :)
+You could help manage **issues**, approve **pull requests**, and **directly edit markdown files without needing a pull request**. If you’d like to become a collaborator, please apply through the [Issues](/issues) tab.
 
 # FreeMyXe Compatibility Database
 
