@@ -5,9 +5,15 @@ These are people that can approve/decline issues/pull requests and directly edit
 
 This is a community-driven compatibility database for games running on [**FreeMyXe**](https://github.com/InvoxiPlayGames/FreeMyXe)**-patched Xbox 360 consoles**. The goal is to document which games work, which have issues, and any possible fixes.
 
-## How to Use
-- **Check compatibility**: Browse the game lists ([Retail Games](/Retail.md) or [Homebrew](/Homebrew.md)) to see if a title works.
-- **Contribute**: If you've tested a game, report your findings (see below).
+### How to Use:
+1. **Check Compatibility**:  
+   Browse the [Retail Games](/Retail.md) or [Homebrew](/Homebrew.md) lists to see if a title works with FreeMyXe.
+
+2. [**Contribute**](#how-to-contribute):  
+   If you've tested a game, contribute your findings by creating a pull request or using the Issues tab to report compatibility.
+
+3. **Additional Information**:  
+   Visit the [**Wiki**](https://github.com/XDanfr/FMX-Compatibility/wiki) for more detailed guides on testing and patching methods.
   
 > [!NOTE]
 > This repo is made for **legally dumped games** and homebrew. This does **not** serve for piracy.
