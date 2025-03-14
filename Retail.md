@@ -1,6 +1,7 @@
 > [!NOTE]
 > - **Remember to patch your Games!** Be sure to follow one of the tutorials in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki) to ensure proper functionality.
 > - Before adding a `❌ Borked` Game to this list, **try removing any title updates**. Some games may only work when title updates are deleted.
+> - If a game is listed as `❌ Borked` in a specific format, try converting via another method. It might work!
 
 | Game Title                      | Works? | Method | Notes (Crashes, Fixes, Patches)                                                                                                                                           |
 |---------------------------------|:------:|:-------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
