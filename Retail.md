@@ -69,3 +69,11 @@
 | Watch Dogs                      |   ✅   | XexTool | [Reported working](https://www.reddit.com/r/360hacks/comments/1j8hq5b) by [u/teamnefarious](https://www.reddit.com/u/teamnefarious/)                                     |
 | WWE Smackdown Vs Raw 2007       |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/14) by [GrandpaJoeTheEighth](https://github.com/GrandpaJoeTheEighth)                               |
 | WWE Smackdown Vs Raw 2011       |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
+
+
+| Status | Meaning |
+|--------|---------|
+| ✅ Works | Fully functional with no issues. |
+| ⚠️ Partially | Works, but has glitches or requires fixes. |
+| ❌ Borked | Does not work or crashes. |
+| 👤 Offline | Only use an offline account (not Xbox Live) to prevent a ban. |
