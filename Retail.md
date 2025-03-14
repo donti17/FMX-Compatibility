@@ -14,6 +14,7 @@
 | Call of Duty WaW                |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Call of Juarez                  |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Dark Sector                     |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
+| Deadly Premonition              |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/30) by [Sakimotor](https://github.com/Sakimotor)
 | DJ Hero 1                       |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Doom 3 BFG                      |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Dragon Ball: Raging Blast 2     |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/3) by [olakase123lol](https://github.com/olakase123lol) including DLCs and movies                  |
