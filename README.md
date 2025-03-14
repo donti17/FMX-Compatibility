@@ -39,7 +39,7 @@ Compatibility reports are categorised as follows:
 
 ## Known Issues and Troubleshooting
 - **Game not working after patching?**  
-  Make sure you followed the recommended patching method outlined in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki/Recommended-method:-How-to-patch-Title-Updates).  
+  Make sure you followed the recommended patching method outlined in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki/Recommended-method:-How-to-patch-Title-Updates). If it still doesn't work, it is likely `❌ Borked`. Please submit an issue regarding this. 
 - **Problems with Indie Games?**  
   Indie Games often require an Xbox Live connection, which could lead to a potential **ban** from Microsoft if you are using FreeMyXe. While these games will generally work when connected, we strongly **recommend using an offline account** to prevent any risk.
 
