@@ -67,7 +67,7 @@ We rely on the community to expand and maintain this database (though I will be 
 4. **Submit a pull request** with your changes.
 
 Alternatively, you can report compatibility using **GitHub Issues**:
-- Open an [**Issue**](https://github.com/Brubhubedits/FMX-Compatibility/issues/new?template=compatibility_report.yml) and follow the provided template.
+- Open an [**Issue**](https://github.com/XDanfr/FMX-Compatibility/issues/new?template=compatibility_report.yml) and follow the provided template.
 
 > [!NOTE]
 > To avoid compatibility issues, **always make sure you're using the latest version** of [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
@@ -75,7 +75,7 @@ Alternatively, you can report compatibility using **GitHub Issues**:
 ## Help Wanted
 
 - **Testing** additional [Homebrew](/Homebrew.md) and documenting their compatibility.
-- **Improving** the [Wiki](/wiki) with easier to understand patching instructions.
+- **Improving** the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki) with easier to understand patching instructions.
 - **Translating** the repo into other languages to make it more accessible globally.
 
 ## Roadmap
