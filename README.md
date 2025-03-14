@@ -31,7 +31,7 @@ Compatibility reports are categorised as follows:
 
 ## Assumptions
 - All Games and Homebrew listed in this database are assumed to have been patched using one of the methods in the [**Wiki**](https://github.com/XDanfr/FMX-Compatibility/wiki) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
-- **Arcade Games should work out of the box** and generally run perfectly fine in GoD format. If an arcade Game does not work, feel free to let me know via the issues tab just like any other Game.
+- **Arcade games should work out of the box** in GoD format, but if you experience any issues, please report them via the issues tab or add them to the database.
 
 > [!NOTE]
 > If a Game doesn't work via XexTool, it's very likely that it'll work via [this method](https://www.youtube.com/watch?v=tUajcJjVaPY) (video). This is the recommended method.
