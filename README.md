@@ -1,5 +1,5 @@
 This repo is looking for **collaborators**!
-You could help manage **issues**, approve **pull requests**, and **directly edit markdown files without needing a pull request**. If you’d like to become a collaborator, please apply through the [Issues](/issues) tab.
+You could help manage **issues**, approve **pull requests**, and **directly edit markdown files without needing a pull request**. If you’d like to become a collaborator, please apply through the [Issues](https://github.com/XDanfr/FMX-Compatibility/issues) tab.
 
 # FreeMyXe Compatibility Database
 
