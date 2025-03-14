@@ -5,6 +5,7 @@
 
 > [!NOTE]
 > - **Remember to patch your apps!** If necessary, follow one of the tutorials in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki) to ensure proper functionality.
+> - Emulators are listed separately from homebrew. See [Emulators](#emulators)
 
 ### Regular Homebrew
 
