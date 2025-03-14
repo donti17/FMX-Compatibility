@@ -7,7 +7,7 @@ This is a community-driven compatibility database for Games and Homebrew running
 
 ### How to Use:
 1. **Check Compatibility**:  
-   Browse the [Retail Games](/Retail.md) or [Homebrew](/Homebrew.md) lists to see if a title works with FreeMyXe.
+   Browse the [Retail Games](/Retail.md), [Emulators](Emulators.md) or [Homebrew](/Homebrew.md) lists to see if a title works with FreeMyXe.
 
 2. [**Contribute**](#how-to-contribute):  
    If you've tested a Game or Homebrew, contribute your findings by creating a pull request or using the Issues tab to report compatibility. See [How to Contribute](#how-to-contribute) for more.
