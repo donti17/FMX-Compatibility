@@ -70,7 +70,7 @@ Alternatively, you can report compatibility using **GitHub Issues**:
 - Open an [**Issue**](https://github.com/Brubhubedits/FMX-Compatibility/issues/new?template=compatibility_report.yml) and follow the provided template.
 
 > [!NOTE]
-> Make sure you're using the latest version of both [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
+> To avoid compatibility issues, **always make sure you're using the latest version** of [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
 
 ## Roadmap
 - [ ] Revise the issue reporting experience to be more helpful for owners and contributors.
