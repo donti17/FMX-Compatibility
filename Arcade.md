@@ -9,6 +9,7 @@
 |---------------------------------|:------:|:-------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Battleblock Theater             |   ✅   |   N/A   | No patches needed. ([#6](https://github.com/XDanfr/FMX-Compatibility/pull/6))                                                                                            |
 | Castle Crashers                 |   ✅   |   N/A   | No patches needed. ([#6](https://github.com/XDanfr/FMX-Compatibility/pull/6))                                                                                            |
+| GoldenEye 007 XBLA Demo         |   ✅   |   N/A   | No patches needed. [Reported working](https://www.reddit.com/r/360hacks/comments/1jaq7p7) by [u/IKarma88](https://www.reddit.com/u/IKarma88/)                            |
 | Jet Set Radio                   |   ✅   |   N/A   | No patches needed. ([#6](https://github.com/XDanfr/FMX-Compatibility/pull/6))                                                                                            |
 | Marble Blast Ultra              |   ✅   |   N/A   | No patches needed. ([#6](https://github.com/XDanfr/FMX-Compatibility/pull/6))                                                                                            |
 | Marvel vs Capcom Origins        |   ✅   |   N/A   | No patches needed. (note by [Olakase123lol](https://github.com/olakase123lol))                                                                                           |
