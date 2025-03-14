@@ -55,4 +55,5 @@
 | Tony Hawk Project 8             |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Tony Hawk Proving Grounds       |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Velvet Assassin                 |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
+| WWE Smackdown Vs Raw 2007       |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/14) by [GrandpaJoeTheEighth](https://github.com/GrandpaJoeTheEighth)                                          |
 | WWE Smackdown Vs Raw 2011       |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
