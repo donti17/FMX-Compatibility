@@ -1,5 +1,5 @@
 name: Compatibility Report
-description: Report the compatibility status of a game on FreeMyXe.
+description: Report the compatibility status of software on FreeMyXe.
 title: "[Compatibility] Title"
 labels: ["compatibility"]
 body:
@@ -59,7 +59,7 @@ body:
       options:
         - label: "Yes"
         - label: "No"
-        - label: "This is homebrew."
+        - label: "This is Homebrew."
 
   - type: textarea
     id: notes
