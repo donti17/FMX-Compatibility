@@ -68,6 +68,7 @@
 | Sonic Unleashed                 |   ✅   | XexTool | Launches and plays perfectly (tested on beta 3)                                                                                                                          |
 | South Park: The Stick of Truth  |   ✅   | XexTool | [Reported working](https://www.reddit.com/r/360hacks/comments/1j8hq5b) by [u/teamnefarious](https://www.reddit.com/u/teamnefarious/)                                     |
 | Spider-Man 3                    |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/25) by [TinyPLT](https://github.com/TinyPLT)                                                       |
+| Spider-Man: Friend or Foe       |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/25) by [TinyPLT](https://github.com/TinyPLT)                                                       |
 | Star Wars: CW - Republic Heroes |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/28) by [LeachUK-420](https://github.com/LeachUK-420)                                               |
 | Tony Hawk Project 8             |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Tony Hawk Proving Grounds       |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
