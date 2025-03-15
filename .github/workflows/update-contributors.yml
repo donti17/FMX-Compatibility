@@ -1,0 +1,38 @@
+name: Update Contributors List
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch contributors
+        id: fetch-contributors
+        run: |
+          CONTRIBUTORS=$(curl -s "https://api.github.com/repos/XDanfr/FMX-Compatibility/contributors" | jq -r '.[] | select(.login != "XDanfr") | "| [\(.login)](https://github.com/\(.login)) | \(.contributions) |"')
+          echo "CONTRIBUTORS<<EOF" >> $GITHUB_ENV
+          echo "$CONTRIBUTORS" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- CONTRIBUTORS_START -->/,/<!-- CONTRIBUTORS_END -->/{//!d}' README.md
+          echo "<!-- CONTRIBUTORS_START -->" >> README.md
+          echo "### Top Contributors" >> README.md
+          echo "| Contributor | Contributions |" >> README.md
+          echo "|-------------|---------------|" >> README.md
+          echo "$CONTRIBUTORS" >> README.md
+          echo "<!-- CONTRIBUTORS_END -->" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README with top contributors"
+          git push
