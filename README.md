@@ -31,7 +31,7 @@ Compatibility reports are categorised as follows:
 | 👤 Offline | Only use an offline account (not Xbox Live) to prevent a ban. |
 
 ## Assumptions
-- All s and Homebrew listed in this database are assumed to have been patched using one of the methods in the [**Wiki**](https://github.com/XDanfr/FMX-Compatibility/wiki) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
+- All Games and Homebrew listed in this database are assumed to have been patched using one of the methods in the [**Wiki**](https://github.com/XDanfr/FMX-Compatibility/wiki) before testing. If a title does not work, please ensure it has been properly patched before reporting compatibility issues.
 - **Arcade games should work out of the box** in GoD format, but if you experience any issues, please report them via the issues tab or add them to the database.
 
 > [!NOTE]
