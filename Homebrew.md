@@ -28,3 +28,10 @@
 | GenesisPlus360 👤       |  XEX   |   ✅    |        |             | Runs ROMs with no issue, need to change the rom folder's location if needed. **NOTE: the Emulator has a Achievement system so you must be using an offline account if using the emulator, as it will most likely make your console or account get banned if online.**                                      |
 | Modded Xefu Emulator    |  XEX   |         |        |      ✅      | Remember to Run "OGXboxPrep.xex" to play your OG Xbox Game, replace the original compatibility folder From HddX: to allow you to run Backup, for a compatibily list of the games, use this [Site](https://consolemods.org/wiki/Xbox_360:Original_Xbox_Games_Compatibility_List#Compatibility_List) |
 | Snes360 👤              |  XEX   |   ✅    |        |             | Runs ROMs with no issue. **NOTE: You immediately receive an achievement as soon as you launch the emulator with a profile logged in, and will most likely be why your console or account is banned if you run the emulator on an Xbox Live-enabled profile.**                                                |
+
+| Status | Meaning |
+|--------|---------|
+| ✅ Works | Fully functional with no issues. |
+| ⚠️ Partially | Works, but has glitches or requires fixes. |
+| ❌ Borked | Does not work or crashes. |
+| 👤 Offline | Only use an offline account (not Xbox Live) to prevent a ban. |
