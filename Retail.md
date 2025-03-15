@@ -41,6 +41,7 @@
 | Halo 3                          |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | LEGO Batman 3: Beyond Gotham    |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/18) by [BestGamer954](https://github.com/BestGamer954) using only Game Hack.                       |
 | Lollipop Chainsaw               |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
+| Mafia 2                         |   ✅   |   N/A   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/36) by [SessaoRGH](https://github.com/SessaoRGH) without any patching needed!              |
 | Midnight Club: Los Angeles      |   ✅   | XexTool | [Reported working](https://www.reddit.com/r/360hacks/comments/1j87wwc) by [u/Octoomy](https://reddit.com/u/Octoomy)                                                      |
 | Minecraft: Story Mode            |   ✅   |   GoD   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/23) by [SessaoRGH](https://github.com/SessaoRGH)                                                   |
 | Minecraft: Story Mode - Season 2 |   ✅   |   GoD   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/34) by [SessaoRGH](https://github.com/SessaoRGH) patched to the latest TU and all DLC works |
