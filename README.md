@@ -66,6 +66,8 @@ We rely on the community to expand and maintain this database (though I will be 
 
 
 4. **Submit a pull request** with your changes.
+> [!NOTE]
+> Need more help? Check out GitHub's guide on [Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 
 Alternatively, you can report compatibility using **GitHub Issues**:
 - Open an [**Issue**](https://github.com/XDanfr/FMX-Compatibility/issues/new?template=compatibility_report.yml) and follow the provided template.
@@ -82,7 +84,7 @@ We are also looking for contributors! Check the top of this readme to find out m
 - **Translating** the repo into other languages to make it more accessible globally.
 
 ## Roadmap
-- [ ] Revise the issue reporting experience to be more helpful for owners and contributors.
+- Nothing left! Feel free to give suggestions via the Issues tab.
 
 ## Credits
 This project is maintained by the Xbox 360 community! Special thanks to:
