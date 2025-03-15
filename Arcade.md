@@ -23,4 +23,3 @@
 | ✅ Works | Fully functional with no issues. |
 | ⚠️ Partially | Works, but has glitches or requires fixes. |
 | ❌ Borked | Does not work or crashes. |
-| 👤 Offline | Only use an offline account (not Xbox Live) to prevent a ban. |
