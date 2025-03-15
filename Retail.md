@@ -47,6 +47,7 @@
 | Minecraft: Story Mode - Season 2 |   ✅   |   GoD   | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/34) by [SessaoRGH](https://github.com/SessaoRGH) patched to the latest TU and all DLC works |
 | Modern Warfare 2                |   ✅   | XexTool | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/4) by [SessaoRGH](https://github.com/SessaoRGH)                                                    |
 | MorphX                          |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
+| Mortal Kombat: Komplete Edition                          |   ✅   | XexTool  | Works and Plays fine                                          |
 | My Horse and Me 2               |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Nail'd                          |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
 | Naval Assault: The Killing Tide |   ✅   | Manual  | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)                                          |
