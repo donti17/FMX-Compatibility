@@ -78,7 +78,7 @@ We are also looking for contributors! Check the top of this readme to find out m
 > To avoid compatibility issues, **always make sure you're using the latest version** of [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate/releases/latest) and [FreeMyXe](https://github.com/InvoxiPlayGames/FreeMyXe/releases/latest).
 
 
-## Top Contributors
+### Top Contributors
 <!-- CONTRIBUTORS_START -->
 <!-- CONTRIBUTORS_END -->
 
