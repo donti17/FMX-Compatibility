@@ -42,8 +42,8 @@ body:
       label: "Have you made sure to patch the files first before running it?"
       description: "Make sure you've used one of the available methods before reporting an issue."
       options:
-        - label: "Yes, I definitely have patched the XEX file and any other necessary files."
-        - label: "No (some XBLA titles)"
+        - label: "Yes, I definitely have patched the XEX file and any other necessary files or unlocked the GoD."
+        - label: "No (some titles and XBLA)"
 
   - type: dropdown
     id: method
