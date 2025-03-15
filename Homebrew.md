@@ -7,7 +7,7 @@
 > - **Remember to patch your apps!** If necessary, follow one of the tutorials in the [Wiki](https://github.com/XDanfr/FMX-Compatibility/wiki) to ensure proper functionality.
 > - Emulators are listed separately from homebrew. See [Emulators](#emulators)
 > - DashLaunch plugins (e.g. Stealth servers, XBDM) don't work as it can't be installed.
-> - > - If Homebrew is listed as `❌ Borked` or `⚠️ Partial` in a specific format, try converting via another method. It might work completely!! (This doesn't apply to DashLaunch)
+> - If Homebrew is listed as `❌ Borked` or `⚠️ Partial` in a specific format, try converting via another method. It might work completely!! (This doesn't apply to DashLaunch)
 
 ### Regular Homebrew
 
