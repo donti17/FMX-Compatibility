@@ -15,6 +15,7 @@
 | Minecraft: Xbox 360 Edition     |   ✅   |        ✅        | The game launches with the latest title update if you unlock the full game on XM360 first.                                                                               |
 | Plants Vs. Zombies              |   ✅   |        ❌        | No patches needed. ([#6](https://github.com/XDanfr/FMX-Compatibility/pull/6))                                                                                            |
 | Radiant Silvergun               |   ✅   |        ❌        | No patches needed. [Reported working](https://www.reddit.com/r/360hacks/comments/1j87wwc/comment/mh3io2e) by [u/Schwingit](https://www.reddit.com/user/Schwingit/)       |
+| Sonic The Fighters                  |   ✅   |        ❌        | No patches needed, [Reported Working](https://github.com/XDanfr/FMX-Compatibility/issues/54) by [SaNaGa23](https://github.com/SaNaGa23)                                                                                            |
 | Super Meat Boy                  |   ✅   |        ❌        | No patches needed. ([#6](https://github.com/XDanfr/FMX-Compatibility/pull/6))                                                                                            |
 
 
