@@ -50,22 +50,22 @@ We rely on the community to expand and maintain this database (though I will be 
 2. **Edit the relevant markdown file**
 3. **Use this format** when adding a new Game or Homebrew:
    ```md
-   | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches)      |
-   |----------------------------|:------:|--------------------------------------|
-   | Example Game               |   ⚠️   | Crashes after loading world 2        |
-   | Another Game               |  ✅ 👤 | No issues found, use offline account |
-   | Yet Another                |   ❌   | Doesn't launch at all                |
+   | Game/Homebrew Title        | Manual | XexTool | GoD patching | No patching | Notes (Crashes, Fixes, Patches)      |
+   |----------------------------|:------:|:-------:|:------------:|:-----------:|--------------------------------------|
+   | Example Game               |   ⚠️   |         |              |     ❌      | Crashes after loading world 2        |
+   | Another Game 👤            |   ✅   |   ✅    |              |             | No issues found, use offline account |
+   | Yet Another                |   ❌   |   ❌    |      ❌      |             | Doesn't launch at all                |
    ```
    So that it'll look like this:
+   
+   | Game/Homebrew Title        | Manual | XexTool | GoD patching | No patching | Notes (Crashes, Fixes, Patches)      |
+   |----------------------------|:------:|:-------:|:------------:|:-----------:|--------------------------------------|
+   | Example Game               |   ⚠️   |         |              |     ❌      | Crashes after loading world 2        |
+   | Another Game 👤            |   ✅   |   ✅    |              |             | No issues found, use offline account |
+   | Yet Another                |   ❌   |   ❌    |      ❌      |             | Doesn't launch at all                |
 
-   | Game/Homebrew Title        | Works? | Notes (Crashes, Fixes, Patches)      |
-   |----------------------------|:------:|--------------------------------------|
-   | Example Game               |   ⚠️   | Crashes after loading world 2        |
-   | Another Game               |  ✅ 👤 | No issues found, use offline account |
-   | Yet Another                |   ❌   | Doesn't launch at all                |
 
-
-4. **Submit a pull request** with your changes.
+5. **Submit a pull request** with your changes.
 > [!NOTE]
 > Need more help? Check out GitHub's guide on [Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 
