@@ -19,6 +19,9 @@
 | Sonic The Fighters              |   ✅   |        ❌        | No patches needed, [Reported Working](https://github.com/XDanfr/FMX-Compatibility/issues/54) by [SaNaGa23](https://github.com/SaNaGa23)                                     |
 | South Park Let's Go Tower Defense Play!                 |   ✅   |        ❌        | No patches needed. [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/72) by [matti-dotcom](https://github.com/matti-dotcom)  |
 | Super Meat Boy                  |   ✅   |        ❌        | No patches needed. ([#6](https://github.com/XDanfr/FMX-Compatibility/pull/6))                                                                                               |
+| Trials Fusion                   |   ✅   |        ❌        | No patches needed. [Reported working](https://github.com/XDanfr/FMX-Compatibility/pull/89) by [lucmsilva651](https://github.com/lucmsilva651)                                                                                               |
+| Trials Evolution                |   ✅   |        ❌        | No patches needed. [Reported working](https://github.com/XDanfr/FMX-Compatibility/pull/89) by [lucmsilva651](https://github.com/lucmsilva651)                                                                                               |
+| Worms Ultimate Mayhem           |   ✅   |        ❌        | No patches needed. [Reported working](https://github.com/XDanfr/FMX-Compatibility/pull/89) by [lucmsilva651](https://github.com/lucmsilva651)                                                                                               |
 
 
 | Status | Meaning |
