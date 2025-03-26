@@ -140,10 +140,10 @@
 | Walking Dead, The (Season 1)    |        |   ✅    |              |             | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/82) by [SessaoRGH](https://github.com/SessaoRGH)                       |
 | Watch Dogs                      |        |   ✅    |              |             | [Reported working](https://www.reddit.com/r/360hacks/comments/1j8hq5b) by [u/teamnefarious](https://www.reddit.com/u/teamnefarious/)         |
 | WET                             |        |         |              |     ✅      | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/46) by [hj-0](https://github.com/hj-0) as an unpatched GoD.            |
+| Winning Eleven 2007             |        |    ✅   |              |             | Works with XEXTools patching                                                                                                                 |
 | Witcher 2, The: Enhanced Edition|        |         |      ❌      |             | [Reported not working](https://github.com/XDanfr/FMX-Compatibility/issues/64) by [Evangelous](https://github.com/Evangelous)                 |
 | WWE Smackdown Vs Raw 2007       |        |   ✅    |              |             | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/14) by [GrandpaJoeTheEighth](https://github.com/GrandpaJoeTheEighth)   |
 | WWE Smackdown Vs Raw 2011       |   ✅   |         |              |             | [Reported working](https://github.com/XDanfr/FMX-Compatibility/issues/7) by [CabooseSayzWTF](https://github.com/CabooseSayzWTF)              |
-| Winning Eleven 2007             |        |    ✅   |              |             | Works with XEXTools patching                                                                                                                 |
 
 | Status | Meaning |
 |--------|---------|
